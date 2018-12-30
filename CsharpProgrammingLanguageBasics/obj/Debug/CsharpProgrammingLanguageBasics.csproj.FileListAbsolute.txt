@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\CsharpProgrammingLanguageBasics\CsharpProgrammingLanguageBasics\bin\Debug\CsharpProgrammingLanguageBasics.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\CsharpProgrammingLanguageBasics\CsharpProgrammingLanguageBasics\bin\Debug\CsharpProgrammingLanguageBasics.exe
+c:\users\admin\documents\visual studio 2015\Projects\CsharpProgrammingLanguageBasics\CsharpProgrammingLanguageBasics\bin\Debug\CsharpProgrammingLanguageBasics.pdb
+c:\users\admin\documents\visual studio 2015\Projects\CsharpProgrammingLanguageBasics\CsharpProgrammingLanguageBasics\obj\Debug\CsharpProgrammingLanguageBasics.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\CsharpProgrammingLanguageBasics\CsharpProgrammingLanguageBasics\obj\Debug\CsharpProgrammingLanguageBasics.exe
+c:\users\admin\documents\visual studio 2015\Projects\CsharpProgrammingLanguageBasics\CsharpProgrammingLanguageBasics\obj\Debug\CsharpProgrammingLanguageBasics.pdb
